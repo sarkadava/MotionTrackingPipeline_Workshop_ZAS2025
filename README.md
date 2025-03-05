@@ -34,7 +34,7 @@ Here, you can either use [Github Desktop](https://desktop.github.com/download/) 
 > **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/MotionTrackingPipeline_Workshop_ZAS2025
 
 If you don't want to install yet another software, you can just download the repository. At the top of this page, click on **<> Code** and then **Download ZIP**. This will download the repository.
-![alt text](image.png)
+![alt text](imgs/image.png)
 
 ### Step 4: Prepare your environment
 
@@ -72,9 +72,70 @@ pip install -r requirements.txt
 
 Now you can open your Visual Studio Code, click on *File > Open Folder* and select the folder where this repository lives. In the right panel, you shoul be able to see all the files. Click on the jupyter notebook Test.ipynb
 
-Click on the play button. A window will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. Now click on the play button once more.
+Click on the play button. A window will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. You should be able to see the name of the kernel in the top-right corner like so
 
-The moment of truth has come. If nothing screams red and a welcome message got printed, congratulations, you are ready to go! :blush:
+![alt text](imgs/image-2.png)
+
+When you click on the play button (or maybe even without that), most likely a window will pop up, asking you to install ipykernel on your VS Code. Click on install and wait until it finishes.
+
+![alt text](imgs/image-3.png)
+
+Now, finally, the moment of truth has come! If nothing screams red and a welcome message got printed, congratulations, you are ready to go! :blush:
 
 
+## Troubleshooting
 
+Unfortunately, there are many things on the way that can go wrong - for many reasons. Yes, technology can be too stubborn. While it is impossible to cover all of them, here are the most common
+
+### *pip: command not found*
+
+This error occurs when your system does not know where to find the *pip* command. Pip is either not installed in your environment, or it is not added to the system path.
+
+#### Solution nr. 1
+
+You can install pip by typing
+
+```
+conda install pip
+```
+
+If it does not work, refer to the next solution.
+
+#### Solution nr. 2
+
+Go to system settings and search for *Environment Variables*. Click on *Environment Variables* and in the *System variables* find *Path*. Click on *Edit* and then *New*. Now you need to add the path to your Anaconda. This is usually in *C:\Users\YourName\C:\Users\Your Name\anaconda3\python.exe*.
+
+### I don't see MTworkshop environment in VS Code
+
+If you don't see the environment you have created in the list of available kernels, but are 100% sure that you have created it, go to your Anaconda Prompt and type
+
+```
+python -m ipykernel install --user --name=MTworkshop
+```
+
+Now you should see it in the list of available kernels. Note that maybe you will need to restart your VS Code.
+
+### *ModuleNotFoundError: No module named 'mediapipe'*
+
+If during the Step 5 you get this error (or some other module is missing), it means that the package was not installed. You can try either reinstalling the whole requirements
+
+#### Solution nr. 1
+
+```
+pip install -r requirements.txt
+```
+>[!IMPORTANT]
+> Make sure that you are in your MTworkshop environment. It should be displayed in brackets at the beginning of your prompt.
+![alt text](imgs/image-1.png)
+
+#### Solution nr. 2
+
+Or just install the missing package
+
+```
+pip install mediapipe
+```
+
+### Did I not address your problem?
+
+If you have encountered a problem that is not listed here, please let me know. I will do my best to help you out. You can reach me via email *kadava[et]leibniz-zas[dot]de*
