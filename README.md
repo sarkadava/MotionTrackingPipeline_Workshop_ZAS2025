@@ -13,7 +13,7 @@ To be able to follow the workshop and explore the coding procedures of building 
 The easiest way to get Python is installing [Anaconda](https://www.anaconda.com/download), a common platform for this programming language.
 
 > [!IMPORTANT] 
-> At some point during the installation process, you need to check that you want **to add Anaconda/Python to system path**. Without that, your command prompt or the text editor will not know where to find executor. 
+> At some point during the installation process, you need to check :ballot_box_with_check: that you want **to add Anaconda/Python to system path**. Without that, your command prompt or the text editor will not know where to find executor. 
 
 If you feel you need a guidance, you can follow one of many tutorials online (e.g., [here for Mac]( https://www.youtube.com/watch?v=YJC6ldI3hWk), and [here for Windows](https://www.youtube.com/watch?v=UTqOXwAi1pE)). 
 
@@ -21,7 +21,7 @@ If you feel you need a guidance, you can follow one of many tutorials online (e.
 
 To work with Python scripts, it is very convenient to have a text editor. Essentially, this can be any software that can edit texts, but I personally recommend - and for this workshop highly encourage - to use [Visual Studio Code](https://code.visualstudio.com/).
 
-Once you have install it, you need to do few more adjustments so that VS Code can recognize a Python script. Go to Extension panel (*Ctrl + Shift + X*) and search for Python. Click on the install button, et voilà! 
+Once you have installed it, you need to do few more adjustments so that VS Code can recognize a Python script. Go to Extension panel (*Ctrl + Shift + X*) and search for Python. Click on the install button, et voilà! 
 
 > [!TIP] 
 > One of the reasons why VS Code is really nice lies in the extensions. One of my favorites is [Data Wrangle](https://code.visualstudio.com/docs/datascience/data-wrangler) that allows you to look through your dataframe in much more friendly way than, for instance, RStudio (no hate though :angel:)
@@ -40,7 +40,7 @@ If you don't want to install yet another software, you can just download the rep
 
 ### Step 4: Prepare your environment
 
-During the workshop, we will work with so-called *virtual environment*. I will not go into detail, but environment essentially make sure that our project is safely isolated from the rest of the Python packages and certain versions therefore do not collide.
+During the workshop, we will work with so-called *virtual environment*. I will not go into details here, but environment essentially make sure that our project is safely isolated from the rest of the Python packages and certain versions therefore do not collide.
 
 Now turn on your Anaconda Prompt and type
 
@@ -72,9 +72,9 @@ pip install -r requirements.txt
 
 ### Step 5: Verify that it worked
 
-Now you can open your Visual Studio Code, click on *File > Open Folder* and select the folder where this repository lives. In the right panel, you shoul be able to see all the files. Click on the jupyter notebook Test.ipynb
+Now you can open your Visual Studio Code, click on *File > Open Folder* and select the folder where this repository lives. In the right panel, you should be able to see all the files. Click on the jupyter notebook Test.ipynb
 
-Click on the play button. A window will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. You should be able to see the name of the kernel in the top-right corner like so
+Click on the play button. A window will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. If it worked, you should be able to see the name of the kernel in the top-right corner like so
 
 ![alt text](imgs/image-2.png)
 
@@ -87,7 +87,7 @@ Now, finally, the moment of truth has come! If nothing screams red and a welcome
 
 ## Troubleshooting
 
-Unfortunately, there are many things on the way that can go wrong - for many reasons. Yes, technology can be too stubborn. While it is impossible to cover all of them, here are the most common
+Unfortunately, there are many things on the way that can go wrong - for many reasons. Yes, technology can be too stubborn. While it is impossible to cover all of them, here are the most common errors you may encounter.
 
 ### *pip: command not found*
 
@@ -105,9 +105,9 @@ If it does not work, refer to the next solution.
 
 #### Solution nr. 2
 
-Go to system settings and search for *Environment Variables*. Click on *Environment Variables* and in the *System variables* find *Path*. Click on *Edit* and then *New*. Now you need to add the path to your Anaconda. This is usually in *C:\Users\YourName\C:\Users\Your Name\anaconda3\python.exe*.
+Go to system settings and search for *Environment Variables*. Click on *Environment Variables* and in the *System variables* find *Path*. Click on *Edit* and then *New*. Now you need to add the path to your Anaconda. This is usually in *C:\Users\YourName\anaconda3\python.exe*.
 
-### I don't see MTworkshop environment in VS Code
+### *I don't see MTworkshop environment in VS Code*
 
 If you don't see the environment you have created in the list of available kernels, but are 100% sure that you have created it, go to your Anaconda Prompt and type
 
@@ -119,9 +119,11 @@ Now you should see it in the list of available kernels. Note that maybe you will
 
 ### *ModuleNotFoundError: No module named 'mediapipe'*
 
-If during the Step 5 you get this error (or some other module is missing), it means that the package was not installed. You can try either reinstalling the whole requirements
+If during the Step 5 you get this error (or some other module is missing), it means that the package was not installed. 
 
 #### Solution nr. 1
+
+You can try either reinstalling the whole requirements
 
 ```
 pip install -r requirements.txt
