@@ -138,4 +138,4 @@ pip install mediapipe
 
 ### Did I not address your problem?
 
-If you have encountered a problem that is not listed here, please let me know. I will do my best to help you out. You can reach me via email *kadava[et]leibniz-zas[dot]de*
+If you have encountered a problem that is not listed here, please let me know - ideally **before** Wednesday. I will do my best to help you out. You can reach me via email *kadava[et]leibniz-zas[dot]de*
