@@ -2,6 +2,8 @@
 
 This repository stores all materials for a workshop on **How to build your motion tracking pipeline** which takes place on the 12th and 13th of March at ZAS (Berlin).
 
+To make sure we all start on the same page, please prepare your laptop by following the instructions below. 
+
 ## Get ready
 
 ### Step 1: Installing Python
