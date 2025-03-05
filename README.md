@@ -10,7 +10,7 @@ To be able to follow the workshop and explore the coding procedures of building 
 
 The easiest way to get Python is installing [Anaconda](https://www.anaconda.com/download), a common platform for this programming language.
 
-> ["!IMPORTANT"] 
+> [!IMPORTANT] 
 > At some point during the installation process, you need to check that you want **to add Anaconda/Python to system path**. Without that, your command prompt or the text editor will not know where to find executor. 
 
 If you feel you need a guidance, you can follow one of many tutorials online (e.g., [here for Mac]( https://www.youtube.com/watch?v=YJC6ldI3hWk), and [here for Windows](https://www.youtube.com/watch?v=UTqOXwAi1pE)). 
@@ -30,7 +30,8 @@ Once you are all set up, it's time to get this repository to your PC.
 
 Here, you can either use [Github Desktop](https://desktop.github.com/download/) which will later also allow you to synchronize your local version of this repository with any updates I may do here.
 
-> [!NOTE] **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/MotionTrackingPipeline_Workshop_ZAS2025
+> [!NOTE] 
+> **How to clone repository via Github?** After installing, launching Github Desktop, and signing in with your Github credentials, simply click on *File > Clone repository... > URL* and paste there the link to this repository, https://github.com/sarkadava/MotionTrackingPipeline_Workshop_ZAS2025
 
 If you don't want to install yet another software, you can just download the repository. At the top of this page, click on **<> Code** and then **Download ZIP**. This will download the repository.
 ![alt text](image.png)
