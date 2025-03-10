@@ -21,7 +21,7 @@ If you feel you need a guidance, you can follow one of many tutorials online (e.
 
 To work with Python scripts, it is very convenient to have a text editor. Essentially, this can be any software that can edit texts, but I personally recommend - and for this workshop highly encourage - to use [Visual Studio Code](https://code.visualstudio.com/).
 
-Once you have installed it, you need to do few more adjustments so that VS Code can recognize a Python script. Go to Extension panel (*Ctrl + Shift + X*) and search for Python. Click on the install button, et voilà! 
+Once you have installed it, you need to do few more adjustments so that VS Code can recognize a Python script. Go to Extension panel (*Ctrl + Shift + X*) and search for Python. Click on the install button, et voilà! Do the same with extension Jupyter.
 
 > [!TIP] 
 > One of the reasons why VS Code is really nice lies in the extensions. One of my favorites is [Data Wrangle](https://code.visualstudio.com/docs/datascience/data-wrangler) that allows you to look through your dataframe in much more friendly way than, for instance, RStudio (no hate though :angel:)
@@ -74,11 +74,16 @@ pip install -r requirements.txt
 
 Now you can open your Visual Studio Code, click on *File > Open Folder* and select the folder where this repository lives. In the right panel, you should be able to see all the files. Click on the jupyter notebook Test.ipynb
 
-Click on the play button. A window will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. If it worked, you should be able to see the name of the kernel in the top-right corner like so
+In the right-down corner, you might see a prompt {select an Interpreter}. If you do, click on it and select 'base'.
+
+Click on the play button. A drop-down menu will pop up to select a kernel source. Click on *Select Python Environment* and now choose the one we have created a second ago, *MTworkshop*. If it worked, you should be able to see the name of the kernel in the top-right corner like so
+
+> [!CAUTION] 
+> If you are don't see *Select Python Environment* but instead VS Code suggests an option to recommend and install needed extensions - click on it. You probably did not install Jupyter extension in the previous steps and VS Code will now do it for you (another reason why to like this smart editor :angel:).
 
 ![alt text](imgs/image-2.png)
 
-When you click on the play button (or maybe even without that), most likely a window will pop up, asking you to install ipykernel on your VS Code. Click on install and wait until it finishes.
+When you click on the play button, most likely a window will pop up, asking you to install ipykernel on your VS Code. Click on install and wait until it finishes.
 
 ![alt text](imgs/image-3.png)
 
