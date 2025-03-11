@@ -1,0 +1,334 @@
+Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 6.7 px, which roughly corresponds to 32.9 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-2d-tracked.
+Tracking took 1.13 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+Mean reprojection error for RHip is 5.1 px (~ 0.025 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 5.0 px (~ 0.025 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 3.8 px (~ 0.019 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 2.4 px (~ 0.012 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 1.1 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 4.9 px (~ 0.024 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 9.3 px (~ 0.046 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 13.8 px (~ 0.068 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 11.8 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 12.9 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 6.7 px (~ 0.033 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 9.9 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 8.1 px (~ 0.04 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 5.8 px (~ 0.029 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 3.1 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 4.7 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 6.5 px (~ 0.032 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 6.4 px (~ 0.031 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 10.0 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 12.0 px (~ 0.059 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 7.9 px (~ 0.039 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is 6.5 px (~ 0.032 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is 6.1 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is 6.1 px (~ 0.03 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 7.0 px, which roughly corresponds to 34.4 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 14% of the time, Camera cam2: 0%, and Camera cam3: 0%.
+
+3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 1.91 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Exception in callback functools.partial(<function Kernel.enter_eventloop.<locals>.advance_eventloop at 0x00000264D5B1C790>)
+Traceback (most recent call last):
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\tornado\ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\kernelbase.py", line 406, in advance_eventloop
+    eventloop(self)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 137, in loop_qt5
+    return loop_qt4(kernel)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 119, in loop_qt4
+    _notify_stream_qt(kernel, kernel.shell_stream)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 40, in _notify_stream_qt
+    notifier = QtCore.QSocketNotifier(fd, QtCore.QSocketNotifier.Read, kernel.app)
+AttributeError: type object 'QSocketNotifier' has no attribute 'Read'
+Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 6.7 px, which roughly corresponds to 32.9 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-2d-tracked.
+Tracking took 1.13 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+
+Mean reprojection error for RHip is 5.1 px (~ 0.025 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 5.0 px (~ 0.025 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 3.8 px (~ 0.019 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 2.4 px (~ 0.012 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 1.1 px (~ 0.005 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 4.9 px (~ 0.024 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is 9.3 px (~ 0.046 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is 13.8 px (~ 0.068 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is 11.8 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is 12.9 px (~ 0.063 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is 6.7 px (~ 0.033 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is 9.9 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is 8.1 px (~ 0.04 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 5.8 px (~ 0.029 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 3.1 px (~ 0.015 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 4.7 px (~ 0.023 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 6.5 px (~ 0.032 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 6.4 px (~ 0.031 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 6.4 px (~ 0.031 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is 10.0 px (~ 0.049 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 12.0 px (~ 0.059 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is 7.9 px (~ 0.039 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is 6.5 px (~ 0.032 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is 6.1 px (~ 0.03 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is 6.1 px (~ 0.03 m), reached with 1.01 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 7.0 px, which roughly corresponds to 34.4 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 14% of the time, Camera cam2: 0%, and Camera cam3: 0%.
+
+3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 1.93 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\videodata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+Exception in callback functools.partial(<function Kernel.enter_eventloop.<locals>.advance_eventloop at 0x00000287E6BCB5E0>)
+Traceback (most recent call last):
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\tornado\ioloop.py", line 741, in _run_callback
+    ret = callback()
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\kernelbase.py", line 406, in advance_eventloop
+    eventloop(self)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 137, in loop_qt5
+    return loop_qt4(kernel)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 119, in loop_qt4
+    _notify_stream_qt(kernel, kernel.shell_stream)
+  File "C:\Users\u668173\.conda\envs\multimodalmask\lib\site-packages\ipykernel\eventloops.py", line 40, in _notify_stream_qt
+    notifier = QtCore.QSocketNotifier(fd, QtCore.QSocketNotifier.Read, kernel.app)
+AttributeError: type object 'QSocketNotifier' has no attribute 'Read'
+Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+NumExpr defaulting to 8 threads.
+
+
+---------------------------------------------------------------------
+Tracking of the person of interest for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0
+
+--> Mean reprojection error for Neck point on all frames is 20.2 px, which roughly corresponds to 99.4 mm. 
+--> In average, 1.0 cameras had to be excluded to reach the demanded 20 px error threshold.
+
+Tracked json files are stored in D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-2d-tracked.
+Tracking took 1.20 s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0
+D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Pose2Sim\triangulate_3d.py:173: FutureWarning: the 'line_terminator'' keyword is deprecated, use 'lineterminator' instead.
+  Q.to_csv(trc_o, sep='\t', index=True, header=None, line_terminator='\n')
+
+
+Mean reprojection error for RHip is 12.2 px (~ 0.06 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RKnee is 9.2 px (~ 0.045 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RAnkle is 7.1 px (~ 0.035 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RBigToe is 14.3 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RSmallToe is 8.4 px (~ 0.041 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RHeel is 7.0 px (~ 0.034 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHip is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LKnee is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LAnkle is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LBigToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LSmallToe is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LHeel is 14.7 px (~ 0.072 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Neck is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Head is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for Nose is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RShoulder is 14.2 px (~ 0.07 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RElbow is 11.2 px (~ 0.055 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RWrist is 11.4 px (~ 0.056 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RThumb is 11.4 px (~ 0.056 m), reached with 1.02 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RIndex is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for RPinky is 11.7 px (~ 0.058 m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LShoulder is nan px (~ nan m), reached with 1.0 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LElbow is 14.0 px (~ 0.069 m), reached with 1.09 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LWrist is nan px (~ nan m), reached with 1.06 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LThumb is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LIndex is nan px (~ nan m), reached with 1.07 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+Mean reprojection error for LPinky is nan px (~ nan m), reached with 1.08 excluded cameras. 
+No frames were interpolated because 'interpolation_kind' was set to none. 
+
+--> Mean reprojection error for all points on all frames is 9.8 px, which roughly corresponds to 48.2 mm. 
+Cameras were excluded if likelihood was below 0.1 and if the reprojection error was above 15 px.
+In average, 1.01 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 61% of the time, Camera cam2: 0%, and Camera cam1: 19%.
+
+3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_0-299.trc.
+Triangulation took 3.73 s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for trial_0, for all frames.
+---------------------------------------------------------------------
+
+Project directory: D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0
+D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\Pose2Sim\filter_3d.py:370: FutureWarning: the 'line_terminator'' keyword is deprecated, use 'lineterminator' instead.
+  Q_filt.to_csv(trc_o, sep='\t', index=False, header=None, line_terminator='\n')
+
+--> Filter type: Gaussian. Standard deviation kernel: 2
+Filtered 3D coordinates are stored at D:\EnvisionBox_tracking\demo_3Dtracking_pose2sim\projectdata\trial_0\pose-3d\trial_0_filt_0-299.trc.
+
+Calibrating cameras...
+
+Calibrating cameras...
+
+Calibrating cameras...
+--> Residual (RMS) calibration errors for each camera are respectively [1.966, 1.51, 1.527] px, which corresponds to [9.676, 5.853, 7.538] mm.
+Calibration file is stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\calibration\Calib_checkerboard.toml.
+
+Calibrating cameras...
+
+Calibrating cameras...
+
+Calibrating cameras...
+
+Calibrating cameras...
+
+Calibrating cameras...
+--> Residual (RMS) calibration errors for each camera are respectively [1.966, 1.51, 1.527] px, which corresponds to [9.676, 5.853, 7.538] mm.
+Calibration file is stored at D:\Research_projects\demo_3Dtracking_pose2sim\projectdata\trial_0\calibration\Calib_checkerboard.toml.
