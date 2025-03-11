@@ -1,0 +1,3 @@
+session	pcn	height	weight
+0	p0	1.67	64
+0	p1	1.63	62.9

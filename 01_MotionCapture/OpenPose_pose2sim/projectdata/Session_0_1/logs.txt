@@ -1,0 +1,1252 @@
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_20_p0, for all frames.
+On Tuesday 11. March 2025, 13:34:56
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_20_p0
+
+Mean reprojection error for RHip is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.1 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.0 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 1.7 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.5 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 4.0 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.4 px (~ 0.015 m), reached with 0.14 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 4.0 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.9 px (~ 0.013 m), reached with 0.03 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.5 px, which roughly corresponds to 11.1 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.01 cameras had to be excluded to reach these thresholds.
+Camera cam2 was excluded 1% of the time, Camera cam3: 0%, and Camera cam1: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_20_p0\pose-3d\0_1_20_p0_0-232.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_21_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:01
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_21_p0
+
+Mean reprojection error for RHip is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.0 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 0.9 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 1.7 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.3 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 1.7 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.3 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 3.0 px (~ 0.013 m), reached with 0.18 excluded cameras. 
+  Frames 163 to 163, 168 to 168 were interpolated.
+Mean reprojection error for RPinky is 3.5 px (~ 0.016 m), reached with 0.05 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 3.7 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 3.6 px (~ 0.016 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 3.4 px (~ 0.015 m), reached with 0.03 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.4 px, which roughly corresponds to 10.6 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.01 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 0% of the time, Camera cam2: 0%, and Camera cam3: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_21_p0\pose-3d\0_1_21_p0_0-215.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m04s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_22_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:06
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_22_p0
+
+Mean reprojection error for RHip is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 3.7 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.5 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 4.2 px (~ 0.019 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.3 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.3 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.4 px, which roughly corresponds to 10.6 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 0% of the time, and Camera cam2: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_22_p0\pose-3d\0_1_22_p0_0-274.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m06s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_23_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:13
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_23_p0
+
+Mean reprojection error for RHip is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.0 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.6 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.3 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 4.2 px (~ 0.019 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.4 px (~ 0.015 m), reached with 0.03 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.4 px, which roughly corresponds to 10.6 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 0% of the time, and Camera cam3: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_23_p0\pose-3d\0_1_23_p0_0-231.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_24_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:18
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_24_p0
+
+Mean reprojection error for RHip is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.6 px (~ 0.012 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.6 px (~ 0.012 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.9 px (~ 0.013 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.5 px, which roughly corresponds to 11.1 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam2 was excluded 0% of the time, and Camera cam1: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_24_p0\pose-3d\0_1_24_p0_0-342.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m07s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_25_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_25_p0
+
+Mean reprojection error for RHip is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.4 px (~ 0.019 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.4 px (~ 0.006 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 1.0 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 4.0 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.0 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.7 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.1 px (~ 0.014 m), reached with 0.09 excluded cameras. 
+  Frames 271 to 273, 278 to 278 were interpolated.
+Mean reprojection error for RIndex is 3.1 px (~ 0.014 m), reached with 0.12 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.4 px (~ 0.015 m), reached with 0.05 excluded cameras. 
+  Frames 258 to 258 were interpolated.
+Mean reprojection error for LShoulder is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 3.2 px (~ 0.014 m), reached with 0.1 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 3.1 px (~ 0.014 m), reached with 0.04 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 3.8 px (~ 0.017 m), reached with 0.03 excluded cameras. 
+  Frames 233 to 233 were interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.5 px, which roughly corresponds to 11.1 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.02 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 1% of the time, Camera cam1: 1%, and Camera cam2: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_25_p0\pose-3d\0_1_25_p0_0-370.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m08s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_26_p0, for all frames.
+On Tuesday 11. March 2025, 13:35:34
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_26_p0
+
+Mean reprojection error for RHip is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.5 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 3.6 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.8 px (~ 0.012 m), reached with 0.04 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.5 px (~ 0.016 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.2 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.6 px, which roughly corresponds to 11.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 0% of the time, Camera cam2: 0%, and Camera cam3: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_26_p0\pose-3d\0_1_26_p0_0-249.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_29_p1, for all frames.
+On Tuesday 11. March 2025, 13:35:40
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_29_p1
+
+Mean reprojection error for RHip is 4.1 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 5.1 px (~ 0.023 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 4.1 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 3.6 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.7 px (~ 0.012 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 3.1 px (~ 0.014 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 3.0 px, which roughly corresponds to 13.3 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam2 was excluded 0% of the time, and Camera cam1: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_29_p1\pose-3d\0_1_29_p1_0-261.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_30_p1, for all frames.
+On Tuesday 11. March 2025, 13:35:46
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_30_p1
+
+Mean reprojection error for RHip is 3.3 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 5.3 px (~ 0.023 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 1.6 px (~ 0.007 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.0 px (~ 0.004 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 3.7 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.8 px (~ 0.012 m), reached with 0.12 excluded cameras. 
+  Frames 64 to 64, 94 to 94 were interpolated.
+Mean reprojection error for RPinky is 3.8 px (~ 0.017 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.6 px, which roughly corresponds to 11.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 0% of the time, Camera cam3: 0%, and Camera cam2: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_30_p1\pose-3d\0_1_30_p1_0-226.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_31_p1, for all frames.
+On Tuesday 11. March 2025, 13:35:51
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_31_p1
+
+Mean reprojection error for RHip is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.8 px (~ 0.021 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 1.1 px (~ 0.005 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 4.6 px (~ 0.02 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 3.1 px (~ 0.014 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.6 px, which roughly corresponds to 11.5 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.0 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 0% of the time, and Camera cam2: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_31_p1\pose-3d\0_1_31_p1_0-230.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_32_p1, for all frames.
+On Tuesday 11. March 2025, 13:35:57
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_32_p1
+
+Mean reprojection error for RHip is 3.6 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.3 px (~ 0.019 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 4.5 px (~ 0.02 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.7 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.1 px (~ 0.014 m), reached with 0.02 excluded cameras. 
+  Frames 274 to 274 were interpolated.
+Mean reprojection error for RIndex is 2.5 px (~ 0.011 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.1 px (~ 0.009 m), reached with 0.11 excluded cameras. 
+  Frames 156 to 157, 159 to 159, 161 to 162 were interpolated.
+Mean reprojection error for LWrist is 2.7 px (~ 0.012 m), reached with 0.1 excluded cameras. 
+  Frames 156 to 156, 159 to 159, 161 to 162 were interpolated.
+Mean reprojection error for LThumb is 3.6 px (~ 0.016 m), reached with 0.12 excluded cameras. 
+  Frames 155 to 157, 159 to 159, 161 to 163 were interpolated.
+Mean reprojection error for LIndex is 2.7 px (~ 0.012 m), reached with 0.12 excluded cameras. 
+  Frames 156 to 157, 159 to 159, 161 to 163 were interpolated.
+Mean reprojection error for LPinky is 2.9 px (~ 0.013 m), reached with 0.12 excluded cameras. 
+  Frames 156 to 159, 161 to 162 were interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.9 px, which roughly corresponds to 12.9 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.02 cameras had to be excluded to reach these thresholds.
+Camera cam1 was excluded 1% of the time, Camera cam2: 0%, and Camera cam3: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_32_p1\pose-3d\0_1_32_p1_0-299.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m06s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_33_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:04
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_33_p1
+
+Mean reprojection error for RHip is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.6 px (~ 0.02 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.4 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.3 px (~ 0.015 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 4.7 px (~ 0.021 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.3 px (~ 0.015 m), reached with 0.1 excluded cameras. 
+  Frames 201 to 202 were interpolated.
+Mean reprojection error for RIndex is 2.4 px (~ 0.011 m), reached with 1.1 excluded cameras. 
+  Frames 55 to 55, 76 to 76, 122 to 122, 124 to 126, 130 to 131, 140 to 141, 145 to 145, 149 to 158, 160 to 167, 169 to 169, 171 to 173, 175 to 176, 217 to 217, 237 to 237, 241 to 246, 248 to 248, 268 to 268, 270 to 270, 272 to 272, 279 to 279 were interpolated.
+  Frames ['190:215', '219:231'] could not be interpolated: consider adjusting thresholds.
+Mean reprojection error for RPinky is 3.4 px (~ 0.015 m), reached with 0.49 excluded cameras. 
+  Frames 54 to 54, 62 to 63, 122 to 123, 150 to 150, 153 to 153, 165 to 166, 170 to 170, 172 to 173, 176 to 177, 179 to 180, 182 to 182, 184 to 184, 186 to 188, 195 to 195, 197 to 197, 238 to 238 were interpolated.
+Mean reprojection error for LShoulder is 1.9 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 2.2 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 2.9 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 2.8 px (~ 0.012 m), reached with 0.21 excluded cameras. 
+  Frames 70 to 70, 116 to 117, 163 to 163 were interpolated.
+Mean reprojection error for LIndex is 2.8 px (~ 0.012 m), reached with 0.16 excluded cameras. 
+  Frames 80 to 80, 84 to 85 were interpolated.
+Mean reprojection error for LPinky is 3.1 px (~ 0.014 m), reached with 0.32 excluded cameras. 
+  Frames 79 to 79, 120 to 120, 125 to 125, 160 to 160 were interpolated.
+
+--> Mean reprojection error for all points on all frames is 2.8 px, which roughly corresponds to 12.4 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.09 cameras had to be excluded to reach these thresholds.
+Camera cam2 was excluded 4% of the time, Camera cam3: 3%, and Camera cam1: 2%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_33_p1\pose-3d\0_1_33_p1_0-333.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m07s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_34_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:12
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_34_p1
+
+Mean reprojection error for RHip is 3.7 px (~ 0.016 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 4.6 px (~ 0.02 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 3.1 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 4.4 px (~ 0.019 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.0 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 3.0 px (~ 0.013 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 2.7 px (~ 0.012 m), reached with 0.21 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.7 px (~ 0.012 m), reached with 0.21 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 2.9 px (~ 0.013 m), reached with 0.23 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 2.9 px (~ 0.013 m), reached with 0.25 excluded cameras. 
+  Frames 80 to 80 were interpolated.
+Mean reprojection error for RPinky is 3.6 px (~ 0.016 m), reached with 0.22 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 2.1 px (~ 0.009 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 3.2 px (~ 0.014 m), reached with 0.15 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 3.2 px (~ 0.014 m), reached with 0.24 excluded cameras. 
+  Frames 68 to 75, 77 to 78, 80 to 80 were interpolated.
+Mean reprojection error for LThumb is 3.4 px (~ 0.015 m), reached with 0.28 excluded cameras. 
+  No frames needed to be interpolated.
+  Frames ['67:81'] could not be interpolated: consider adjusting thresholds.
+Mean reprojection error for LIndex is 3.3 px (~ 0.015 m), reached with 0.3 excluded cameras. 
+  Frames 53 to 54, 56 to 56 were interpolated.
+  Frames ['67:81'] could not be interpolated: consider adjusting thresholds.
+Mean reprojection error for LPinky is 3.4 px (~ 0.015 m), reached with 0.29 excluded cameras. 
+  No frames needed to be interpolated.
+  Frames ['66:81'] could not be interpolated: consider adjusting thresholds.
+
+--> Mean reprojection error for all points on all frames is 3.0 px, which roughly corresponds to 13.3 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.09 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 5% of the time, Camera cam1: 3%, and Camera cam2: 1%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_34_p1\pose-3d\0_1_34_p1_0-240.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m05s.
+
+
+---------------------------------------------------------------------
+Triangulation of 2D points for 0_1_35_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:17
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_35_p1
+
+Mean reprojection error for RHip is 5.1 px (~ 0.023 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RKnee is 5.5 px (~ 0.024 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RAnkle is 1.8 px (~ 0.008 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RBigToe is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RSmallToe is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RHeel is 2.3 px (~ 0.01 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHip is 4.1 px (~ 0.018 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LKnee is 3.9 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LAnkle is 3.2 px (~ 0.014 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LBigToe is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LSmallToe is 2.8 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LHeel is 3.8 px (~ 0.017 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Neck is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Head is 2.6 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for Nose is 2.4 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RShoulder is 2.7 px (~ 0.012 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RElbow is 4.3 px (~ 0.019 m), reached with 0.06 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RWrist is 2.7 px (~ 0.012 m), reached with 0.06 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RThumb is 3.9 px (~ 0.017 m), reached with 0.15 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RIndex is 3.2 px (~ 0.014 m), reached with 0.13 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for RPinky is 3.5 px (~ 0.016 m), reached with 0.11 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LShoulder is 2.5 px (~ 0.011 m), reached with 0.0 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LElbow is 4.1 px (~ 0.018 m), reached with 0.06 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LWrist is 3.3 px (~ 0.015 m), reached with 0.01 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LThumb is 3.8 px (~ 0.017 m), reached with 0.02 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LIndex is 3.2 px (~ 0.014 m), reached with 0.05 excluded cameras. 
+  No frames needed to be interpolated.
+Mean reprojection error for LPinky is 3.0 px (~ 0.013 m), reached with 0.06 excluded cameras. 
+  No frames needed to be interpolated.
+
+--> Mean reprojection error for all points on all frames is 3.3 px, which roughly corresponds to 14.6 mm. 
+Cameras were excluded if likelihood was below 0.3 and if the reprojection error was above 15 px.
+In average, 0.03 cameras had to be excluded to reach these thresholds.
+Camera cam3 was excluded 2% of the time, Camera cam1: 1%, and Camera cam2: 0%.
+
+3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_35_p1\pose-3d\0_1_35_p1_0-310.trc.
+
+
+
+Limb swapping was not handled.
+Lens distortions were not taken into account.
+
+Triangulation took 00h00m07s.
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_20_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_20_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_20_p0\pose-3d\0_1_20_p0_0-232_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_21_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_21_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_21_p0\pose-3d\0_1_21_p0_0-215_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_22_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_22_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_22_p0\pose-3d\0_1_22_p0_0-274_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_23_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_23_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_23_p0\pose-3d\0_1_23_p0_0-231_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_24_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_24_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_24_p0\pose-3d\0_1_24_p0_0-342_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_25_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_25_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_25_p0\pose-3d\0_1_25_p0_0-370_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_26_p0, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_26_p0
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P0\0_1_26_p0\pose-3d\0_1_26_p0_0-249_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_29_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:26
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_29_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_29_p1\pose-3d\0_1_29_p1_0-261_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_30_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_30_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_30_p1\pose-3d\0_1_30_p1_0-226_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_31_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_31_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_31_p1\pose-3d\0_1_31_p1_0-230_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_32_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_32_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_32_p1\pose-3d\0_1_32_p1_0-299_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_33_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_33_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_33_p1\pose-3d\0_1_33_p1_0-333_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_34_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_34_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_34_p1\pose-3d\0_1_34_p1_0-240_filt_butterworth.trc.
+
+
+
+---------------------------------------------------------------------
+Filtering 3D coordinates for 0_1_35_p1, for all frames.
+On Tuesday 11. March 2025, 13:36:27
+---------------------------------------------------------------------
+
+Project directory: C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_35_p1
+
+--> Filter type: Butterworth low-pass. Order 4, Cut-off frequency 10 Hz.
+Filtered 3D coordinates are stored at C:\Users\kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1\P1\0_1_35_p1\pose-3d\0_1_35_p1_0-310_filt_butterworth.trc.
+
+Animation.save using <class 'matplotlib.animation.FFMpegWriter'>
+MovieWriter._run: running command: ffmpeg -f rawvideo -vcodec rawvideo -s 1000x600 -pix_fmt rgba -framerate 59.99999999999999 -loglevel error -i pipe: -vcodec h264 -pix_fmt yuv420p -y 3D_animation.mp4
