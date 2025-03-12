@@ -1,0 +1,2 @@
+Triangulation failed for c:\Users\Sarka Kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1/P1\0_1_35_p1
+Triangulation failed for c:\Users\Sarka Kadava\Documents\Github\MotionTrackingPipeline_Workshop_ZAS2025\01_MotionCapture\OpenPose_pose2sim\projectdata\Session_0_1/P1\0_1_35_p1
